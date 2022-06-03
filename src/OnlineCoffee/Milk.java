@@ -1,3 +1,5 @@
+package OnlineCoffee;
+
 public class Milk extends CondimentDecorator {
     OnlineSite beverage;
 
@@ -8,7 +10,7 @@ public class Milk extends CondimentDecorator {
 
     @Override
     public String getDescription() {
-        return beverage.getDescription() + " with Milk";
+        return beverage.getDescription() + " with OnlineCoffee.Milk";
     }
 
     @Override

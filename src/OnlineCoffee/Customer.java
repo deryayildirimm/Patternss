@@ -1,3 +1,5 @@
+package OnlineCoffee;
+
 public class Customer implements IObserver{
     PaymentStrategy payment ;
     private  String customerName ;

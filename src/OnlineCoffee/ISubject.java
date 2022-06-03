@@ -1,3 +1,5 @@
+package OnlineCoffee;
+
 public interface ISubject {
     void subscribe(Customer sub);
 

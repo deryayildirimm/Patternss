@@ -1,7 +1,9 @@
+package OnlineCoffee;
+
 public class FilterCoffee extends OnlineSite{
 
     public FilterCoffee(){
-        description = "FilterCoffee";
+        description = "OnlineCoffee.FilterCoffee";
     }
 
     @Override

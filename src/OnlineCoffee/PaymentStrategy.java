@@ -1,3 +1,5 @@
+package OnlineCoffee;
+
 public interface PaymentStrategy {
     void payment();
 }
@@ -16,14 +18,14 @@ class Bitcoin implements PaymentStrategy{
 
     public void payment(){
 
-        System.out.println("The customer  pay with Bitcoin!");
+        System.out.println("The customer  pay with OnlineCoffee.Bitcoin!");
     }
 }
 class PayPal implements PaymentStrategy {
 
     public void payment() {
 
-        System.out.println("The customer  pay with PayPal!");
+        System.out.println("The customer  pay with OnlineCoffee.PayPal!");
     }
 }
 

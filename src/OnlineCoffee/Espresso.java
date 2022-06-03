@@ -1,8 +1,9 @@
+package OnlineCoffee;
 
 public class Espresso extends OnlineSite {
 
     public Espresso(){
-        description = "Espresso";
+        description = "OnlineCoffee.Espresso";
     }
 
     @Override

@@ -1,7 +1,9 @@
+package OnlineCoffee;
+
 public class Mocha extends OnlineSite{
 
     public Mocha(){
-        description = "Mocha";
+        description = "OnlineCoffee.Mocha";
     }
 
     @Override
