@@ -25,5 +25,6 @@
     happen to the object they’re observing. In this scenario, I am using this
     pattern to give notifications to subscribers about lucky hours.
 
+> UML DESIGN 
 
 ![uml](https://github.com/deryayildirimm/Patternss/blob/c8917d73142a5eca9c30dc1d6c1f576176c819a9/src/OnlineCoffee/UML.jpg)
