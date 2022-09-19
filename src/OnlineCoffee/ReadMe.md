@@ -26,4 +26,4 @@
     pattern to give notifications to subscribers about lucky hours.
 
 
-[uml](Patternss/src/OnlineCoffee/UML.jpg)
+![uml](Patternss/src/OnlineCoffee/UML.jpg)
