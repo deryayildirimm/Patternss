@@ -6,7 +6,7 @@
 
  * If it’s a lucky hour, which means a discount, the cost will be half.
 
- >> In this situation, I implement codes with 3 design patterns :
+ > In this situation, I implement codes with 3 design patterns :
 
    ## Strategy:
     The Strategy pattern allows us to dynamically swop out
@@ -25,3 +25,5 @@
     happen to the object they’re observing. In this scenario, I am using this
     pattern to give notifications to subscribers about lucky hours.
 
+
+[uml](src/OnlineCoffee/UML.jpg)
